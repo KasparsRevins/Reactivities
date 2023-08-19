@@ -31,7 +31,7 @@ export default function ActivityListItem({activity}: Props) {
                 </span>
             </Segment>
             <Segment secondary>
-                Attentdees go here
+                Attendees go here
             </Segment>
             <Segment clearing>
                 <span>
